@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-09T18:14:03+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Octocat’s homepage</title><subtitle>Bookmark this to keep an eye on my project updates!</subtitle><entry><title type="html">Test Post</title><link href="http://localhost:4000/2025/09/09/test-post.html" rel="alternate" type="text/html" title="Test Post" /><published>2025-09-09T00:00:00+02:00</published><updated>2025-09-09T00:00:00+02:00</updated><id>http://localhost:4000/2025/09/09/test-post</id><content type="html" xml:base="http://localhost:4000/2025/09/09/test-post.html"><![CDATA[<p>“Buongiorno”</p>]]></content><author><name></name></author><summary type="html"><![CDATA[“Buongiorno”]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-09T19:02:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Octocat’s homepage</title><subtitle>Bookmark this to keep an eye on my project updates!</subtitle><entry><title type="html">Test Post</title><link href="http://localhost:4000/2025/09/09/test-post.html" rel="alternate" type="text/html" title="Test Post" /><published>2025-09-09T00:00:00+02:00</published><updated>2025-09-09T00:00:00+02:00</updated><id>http://localhost:4000/2025/09/09/test-post</id><content type="html" xml:base="http://localhost:4000/2025/09/09/test-post.html"><![CDATA[<script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+
+<p>Buongiorno</p>
+
+<p>The pure state wavefunctions for the one-dimensional infinite square well are the following</p>
+
+\[\Psi_n(x, t) = \sqrt{\frac{2}{L}} \exp \Bigl(-\frac{\hbar^3 n^2 \pi^2}{2mL^2}it\Bigr) \sin(\frac{n\pi}{L}x)\]
+
+<p>The corresponding energies are</p>
+
+\[E_n = \frac{\hbar^2 n^2 \pi^2}{2mL^2}\]]]></content><author><name></name></author><summary type="html"><![CDATA[Buongiorno]]></summary></entry></feed>
